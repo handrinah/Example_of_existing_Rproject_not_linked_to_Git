@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585177635451.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A3B12E83",
+    "lastKnownWriteTime" : 1585180180,
+    "last_content_update" : 1585180180351,
+    "path" : "C:/Users/SmartCare/Desktop/Example_of_existing_Rproject_not_linked_to_Git/HRmarkdown.Rmd",
+    "project_path" : "HRmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,20",
+        "scrollLine" : "14",
+        "tempName" : "Untitled3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
